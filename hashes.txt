@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Golper Shurute
+
+This log tracks the cryptographic history and versioning for the song **Golper Shurute** (golper-shurute).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T11:50:38.007661 | `v1` | `f18fe2f5bdc3c5289057bda239260915f6ded8363d343c04eac3e63f13224916` | `34903988c312ffea7510936fbf4df9c59b0f7f6b0828e0370a8413e3482965b7` | `2026-05-16_golper-shurute-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
