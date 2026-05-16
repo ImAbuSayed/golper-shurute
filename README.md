@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/golper-shurute/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Golper Shurute](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golper-shurute/) |
+| **Get License** | [Get a Licensing Quote for Golper Shurute](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golper-shurute/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধার চেরা রাতের বুকে প্রেমের এই যে আগুন
+> বিষণ্ণ এই স্মৃতির মাঝে আনলো নতুন ফাগুন
+> অচিন পথে পাড়ি দেবো হয়ে আজ দিশেহারা
+> গল্পের শুরুতে তুমি আর আমি মাতাল ছন্দছাড়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
